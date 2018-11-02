@@ -1,7 +1,9 @@
-*This text will be italic*
-_This will also be italic_
+*斜体*
 
-**This text will be bold**
-__This will also be bold__
+_斜体_
 
-_You **can** combine them_
+**粗体**
+
+__也是粗体__
+
+_斜体**里面**也有粗体_
